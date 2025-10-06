@@ -18,7 +18,7 @@ by A. Vivaldi (1678–1741)<br>
 MIDI from: https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=301<br>
 
 **Other Related Things:**<br>
-These are based on Public Domain things. I don't know enough about copyright law to know if they are distinct enough to make them separate or not (as in, whether I have any kind of copyright on them), or even if the level of distinctiveness matters. If they are somehow useful to you, I really don't care what you do with them.
+These are things I made based on Public Domain things. I don't know enough about copyright law to know if they are distinct enough to make them separate or not (as in, whether I have any kind of copyright on them), or even if the level of distinctiveness matters. If they are somehow useful to you, I really don't care what you do with them.
 
 `Vacuum.sf2` is based on:<br>
 Vacuum by palomafg -- https://freesound.org/s/647224/ -- License: Creative Commons 0
